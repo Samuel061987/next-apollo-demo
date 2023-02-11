@@ -1,6 +1,8 @@
 # next-apollo-demo
 
-To run the app locally
+# To run the app locally
+
+
 1). Go to server folder
     npm install
     npm start
