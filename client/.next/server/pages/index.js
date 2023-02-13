@@ -1,86 +1,199 @@
-/*
- * ATTENTION: An "eval-source-map" devtool has been used.
- * This devtool is neither made for production nor for readable output files.
- * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
- * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
- * or disable the default devtool with "devtool: false".
- * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
- */
 (() => {
 var exports = {};
-exports.id = "pages/index";
-exports.ids = ["pages/index"];
+exports.id = 405;
+exports.ids = [405];
 exports.modules = {
 
-/***/ "./styles/Users.module.css":
-/*!*********************************!*\
-  !*** ./styles/Users.module.css ***!
-  \*********************************/
+/***/ 353:
 /***/ ((module) => {
 
-eval("// Exports\nmodule.exports = {\n\t\"container\": \"Users_container__seDVK\",\n\t\"main\": \"Users_main__9ui9x\",\n\t\"footer\": \"Users_footer__F6UFA\",\n\t\"title\": \"Users_title__WwuV0\",\n\t\"description\": \"Users_description__K4_Y6\",\n\t\"code\": \"Users_code__OWgnG\",\n\t\"grid\": \"Users_grid__wIG4E\",\n\t\"card\": \"Users_card__sU8Wz\",\n\t\"logo\": \"Users_logo__ot2QE\",\n\t\"load_more_button\": \"Users_load_more_button__PUgYQ\"\n};\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zdHlsZXMvVXNlcnMubW9kdWxlLmNzcy5qcyIsIm1hcHBpbmdzIjoiQUFBQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQSIsInNvdXJjZXMiOlsid2VicGFjazovL25leHQtYXBvbGxvLy4vc3R5bGVzL1VzZXJzLm1vZHVsZS5jc3M/ZjlmOSJdLCJzb3VyY2VzQ29udGVudCI6WyIvLyBFeHBvcnRzXG5tb2R1bGUuZXhwb3J0cyA9IHtcblx0XCJjb250YWluZXJcIjogXCJVc2Vyc19jb250YWluZXJfX3NlRFZLXCIsXG5cdFwibWFpblwiOiBcIlVzZXJzX21haW5fXzl1aTl4XCIsXG5cdFwiZm9vdGVyXCI6IFwiVXNlcnNfZm9vdGVyX19GNlVGQVwiLFxuXHRcInRpdGxlXCI6IFwiVXNlcnNfdGl0bGVfX1d3dVYwXCIsXG5cdFwiZGVzY3JpcHRpb25cIjogXCJVc2Vyc19kZXNjcmlwdGlvbl9fSzRfWTZcIixcblx0XCJjb2RlXCI6IFwiVXNlcnNfY29kZV9fT1dnbkdcIixcblx0XCJncmlkXCI6IFwiVXNlcnNfZ3JpZF9fd0lHNEVcIixcblx0XCJjYXJkXCI6IFwiVXNlcnNfY2FyZF9fc1U4V3pcIixcblx0XCJsb2dvXCI6IFwiVXNlcnNfbG9nb19fb3QyUUVcIixcblx0XCJsb2FkX21vcmVfYnV0dG9uXCI6IFwiVXNlcnNfbG9hZF9tb3JlX2J1dHRvbl9fUFVnWVFcIlxufTtcbiJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./styles/Users.module.css\n");
+// Exports
+module.exports = {
+	"container": "Users_container__seDVK",
+	"main": "Users_main__9ui9x",
+	"footer": "Users_footer__F6UFA",
+	"title": "Users_title__WwuV0",
+	"description": "Users_description__K4_Y6",
+	"code": "Users_code__OWgnG",
+	"grid": "Users_grid__wIG4E",
+	"card": "Users_card__sU8Wz",
+	"logo": "Users_logo__ot2QE",
+	"load_more_button": "Users_load_more_button__PUgYQ"
+};
+
 
 /***/ }),
 
-/***/ "./components/UserDetails.js":
-/*!***********************************!*\
-  !*** ./components/UserDetails.js ***!
-  \***********************************/
+/***/ 465:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _styles_Users_module_css__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../styles/Users.module.css */ \"./styles/Users.module.css\");\n/* harmony import */ var _styles_Users_module_css__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_styles_Users_module_css__WEBPACK_IMPORTED_MODULE_4__);\n/* harmony import */ var _apollo_client__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @apollo/client */ \"@apollo/client\");\n/* harmony import */ var _apollo_client__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_apollo_client__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var _UserList_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./UserList.js */ \"./components/UserList.js\");\n\n\n\n\n\nconst UserDetails = ({ userslist  })=>{\n    const [usersData, setUserData] = (0,react__WEBPACK_IMPORTED_MODULE_1__.useState)(userslist);\n    const [loadMore, setLoadMore] = (0,react__WEBPACK_IMPORTED_MODULE_1__.useState)(false);\n    const [offset, setOffset] = (0,react__WEBPACK_IMPORTED_MODULE_1__.useState)(0);\n    const limit = 20;\n    const query = _apollo_client__WEBPACK_IMPORTED_MODULE_2__.gql`\r\n    query Users ($limit: Int!, $offset: Int!) {\r\n        users(limit: $limit, offset: $offset) {\r\n          name\r\n          address\r\n          email\r\n          phone\r\n        }\r\n      }\r\n  `;\n    const { data , fetchMore  } = (0,_apollo_client__WEBPACK_IMPORTED_MODULE_2__.useQuery)(query, {\n        variables: {\n            limit: limit,\n            offset: offset\n        }\n    });\n    if (data && loadMore) {\n        setLoadMore(false);\n        setUserData(usersData.concat(data.users));\n    }\n    const handleLoadMore = ()=>{\n        console.log(\"handleLoadMore\");\n        setLoadMore(true);\n        setOffset(offset + limit);\n        try {\n            fetchMore({\n                variables: {\n                    limit: limit,\n                    offset: offset\n                }\n            });\n        } catch (err) {\n            console.log(`Error! ${err.message}`);\n        }\n    };\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n        className: (_styles_Users_module_css__WEBPACK_IMPORTED_MODULE_4___default().container),\n        children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"main\", {\n            className: (_styles_Users_module_css__WEBPACK_IMPORTED_MODULE_4___default().main),\n            children: [\n                /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_UserList_js__WEBPACK_IMPORTED_MODULE_3__[\"default\"], {\n                    user: usersData\n                }, void 0, false, {\n                    fileName: \"C:\\\\Users\\\\aruls\\\\react_learning\\\\next-apollo-demo\\\\client\\\\components\\\\UserDetails.js\",\n                    lineNumber: 50,\n                    columnNumber: 9\n                }, undefined),\n                /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"button\", {\n                    className: (_styles_Users_module_css__WEBPACK_IMPORTED_MODULE_4___default().load_more_button),\n                    onClick: handleLoadMore,\n                    children: \"Load more\"\n                }, void 0, false, {\n                    fileName: \"C:\\\\Users\\\\aruls\\\\react_learning\\\\next-apollo-demo\\\\client\\\\components\\\\UserDetails.js\",\n                    lineNumber: 51,\n                    columnNumber: 10\n                }, undefined)\n            ]\n        }, void 0, true, {\n            fileName: \"C:\\\\Users\\\\aruls\\\\react_learning\\\\next-apollo-demo\\\\client\\\\components\\\\UserDetails.js\",\n            lineNumber: 48,\n            columnNumber: 8\n        }, undefined)\n    }, void 0, false, {\n        fileName: \"C:\\\\Users\\\\aruls\\\\react_learning\\\\next-apollo-demo\\\\client\\\\components\\\\UserDetails.js\",\n        lineNumber: 47,\n        columnNumber: 7\n    }, undefined);\n};\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (UserDetails);\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9jb21wb25lbnRzL1VzZXJEZXRhaWxzLmpzLmpzIiwibWFwcGluZ3MiOiI7Ozs7Ozs7Ozs7Ozs7O0FBQXFDO0FBQ1c7QUFDRDtBQUNWO0FBQ3JDLE1BQU1NLGNBQWMsQ0FBQyxFQUFDQyxVQUFTLEVBQUMsR0FBSztJQUNqQyxNQUFNLENBQUNDLFdBQVVDLFlBQVksR0FBQ1IsK0NBQVFBLENBQUNNO0lBQ3ZDLE1BQU0sQ0FBQ0csVUFBVUMsWUFBWSxHQUFHViwrQ0FBUUEsQ0FBQyxLQUFLO0lBQzlDLE1BQU0sQ0FBQ1csUUFBUUMsVUFBVSxHQUFHWiwrQ0FBUUEsQ0FBQztJQUNyQyxNQUFNYSxRQUFRO0lBQ2QsTUFBTUMsUUFBUVosK0NBQUcsQ0FBQzs7Ozs7Ozs7O0VBU3BCLENBQUM7SUFFRCxNQUFNLEVBQUVhLEtBQUksRUFBRUMsVUFBUyxFQUFFLEdBQUdiLHdEQUFRQSxDQUFDVyxPQUFPO1FBQzFDRyxXQUFXO1lBQUVKLE9BQU9BO1lBQU9GLFFBQVFBO1FBQU87SUFDNUM7SUFFQSxJQUFJSSxRQUFRTixVQUFVO1FBQ3BCQyxZQUFZLEtBQUs7UUFDakJGLFlBQVlELFVBQVVXLE1BQU0sQ0FBQ0gsS0FBS0ksS0FBSztJQUN6QyxDQUFDO0lBR0QsTUFBTUMsaUJBQWUsSUFBSTtRQUN2QkMsUUFBUUMsR0FBRyxDQUFDO1FBQ1paLFlBQVksSUFBSTtRQUNoQkUsVUFBVUQsU0FBU0U7UUFDbkIsSUFBSTtZQUNBRyxVQUFVO2dCQUNOQyxXQUFXO29CQUNYSixPQUFPQTtvQkFDUEYsUUFBUUE7Z0JBQ1I7WUFDSjtRQUNBLEVBQUUsT0FBT1ksS0FBSztZQUNkRixRQUFRQyxHQUFHLENBQUMsQ0FBQyxPQUFPLEVBQUVDLElBQUlDLE9BQU8sQ0FBQyxDQUFDO1FBQ25DO0lBQ1I7SUFDSSxxQkFDRSw4REFBQ0M7UUFBSUMsV0FBV3pCLDJFQUFnQjtrQkFDL0IsNEVBQUMyQjtZQUFLRixXQUFXekIsc0VBQVc7OzhCQUUzQiw4REFBQ0csb0RBQVFBO29CQUFDeUIsTUFBTXRCOzs7Ozs7OEJBQ2YsOERBQUN1QjtvQkFBT0osV0FBV3pCLGtGQUF1QjtvQkFBRStCLFNBQVNaOzhCQUFnQjs7Ozs7Ozs7Ozs7Ozs7Ozs7QUFPOUU7QUFDQSxpRUFBZWYsV0FBV0EsRUFBQyIsInNvdXJjZXMiOlsid2VicGFjazovL25leHQtYXBvbGxvLy4vY29tcG9uZW50cy9Vc2VyRGV0YWlscy5qcz8xZmUyIl0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBSZWFjdCx7dXNlU3RhdGV9IGZyb20gJ3JlYWN0JztcclxuaW1wb3J0IHN0eWxlcyBmcm9tIFwiLi4vc3R5bGVzL1VzZXJzLm1vZHVsZS5jc3NcIjtcclxuaW1wb3J0IHsgZ3FsLCB1c2VRdWVyeSB9IGZyb20gXCJAYXBvbGxvL2NsaWVudFwiO1xyXG5pbXBvcnQgVXNlckxpc3QgZnJvbSBcIi4vVXNlckxpc3QuanNcIjtcclxuY29uc3QgVXNlckRldGFpbHMgPSAoe3VzZXJzbGlzdH0pID0+IHtcclxuICAgIGNvbnN0IFt1c2Vyc0RhdGEsc2V0VXNlckRhdGFdPXVzZVN0YXRlKHVzZXJzbGlzdCk7XHJcbiAgICBjb25zdCBbbG9hZE1vcmUsIHNldExvYWRNb3JlXSA9IHVzZVN0YXRlKGZhbHNlKTtcclxuICAgIGNvbnN0IFtvZmZzZXQsIHNldE9mZnNldF0gPSB1c2VTdGF0ZSgwKTtcclxuICAgIGNvbnN0IGxpbWl0ID0gMjA7XHJcbiAgICBjb25zdCBxdWVyeSA9IGdxbGBcclxuICAgIHF1ZXJ5IFVzZXJzICgkbGltaXQ6IEludCEsICRvZmZzZXQ6IEludCEpIHtcclxuICAgICAgICB1c2VycyhsaW1pdDogJGxpbWl0LCBvZmZzZXQ6ICRvZmZzZXQpIHtcclxuICAgICAgICAgIG5hbWVcclxuICAgICAgICAgIGFkZHJlc3NcclxuICAgICAgICAgIGVtYWlsXHJcbiAgICAgICAgICBwaG9uZVxyXG4gICAgICAgIH1cclxuICAgICAgfVxyXG4gIGA7XHJcblxyXG4gIGNvbnN0IHsgZGF0YSwgZmV0Y2hNb3JlIH0gPSB1c2VRdWVyeShxdWVyeSwge1xyXG4gICAgdmFyaWFibGVzOiB7IGxpbWl0OiBsaW1pdCwgb2Zmc2V0OiBvZmZzZXQgfSxcclxuICB9KTtcclxuXHJcbiAgaWYgKGRhdGEgJiYgbG9hZE1vcmUpIHtcclxuICAgIHNldExvYWRNb3JlKGZhbHNlKTtcclxuICAgIHNldFVzZXJEYXRhKHVzZXJzRGF0YS5jb25jYXQoZGF0YS51c2VycykpO1xyXG4gIH1cclxuXHJcblxyXG4gIGNvbnN0IGhhbmRsZUxvYWRNb3JlPSgpPT57XHJcbiAgICBjb25zb2xlLmxvZygnaGFuZGxlTG9hZE1vcmUnKTtcclxuICAgIHNldExvYWRNb3JlKHRydWUpO1xyXG4gICAgc2V0T2Zmc2V0KG9mZnNldCArIGxpbWl0KTtcclxuICAgIHRyeSB7XHJcbiAgICAgICAgZmV0Y2hNb3JlKHtcclxuICAgICAgICAgICAgdmFyaWFibGVzOiB7XHJcbiAgICAgICAgICAgIGxpbWl0OiBsaW1pdCxcclxuICAgICAgICAgICAgb2Zmc2V0OiBvZmZzZXQsXHJcbiAgICAgICAgICAgIH0sXHJcbiAgICAgICAgfSk7XHJcbiAgICAgICAgfSBjYXRjaCAoZXJyKSB7XHJcbiAgICAgICAgY29uc29sZS5sb2coYEVycm9yISAke2Vyci5tZXNzYWdlfWApO1xyXG4gICAgICAgIH1cclxufVxyXG4gICAgcmV0dXJuIChcclxuICAgICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlcy5jb250YWluZXJ9PlxyXG4gICAgICAgPG1haW4gY2xhc3NOYW1lPXtzdHlsZXMubWFpbn0+XHJcbiAgIFxyXG4gICAgICAgIDxVc2VyTGlzdCB1c2VyPXt1c2Vyc0RhdGF9PjwvVXNlckxpc3Q+XHJcbiAgICAgICAgIDxidXR0b24gY2xhc3NOYW1lPXtzdHlsZXMubG9hZF9tb3JlX2J1dHRvbn0gb25DbGljaz17aGFuZGxlTG9hZE1vcmV9PlxyXG4gICAgICAgICAgTG9hZCBtb3JlXHJcbiAgICAgICAgPC9idXR0b24+XHJcbiAgICAgIFxyXG4gICAgICA8L21haW4+XHJcbiAgICAgPC9kaXY+XHJcbiAgICApXHJcbn1cclxuZXhwb3J0IGRlZmF1bHQgVXNlckRldGFpbHM7Il0sIm5hbWVzIjpbIlJlYWN0IiwidXNlU3RhdGUiLCJzdHlsZXMiLCJncWwiLCJ1c2VRdWVyeSIsIlVzZXJMaXN0IiwiVXNlckRldGFpbHMiLCJ1c2Vyc2xpc3QiLCJ1c2Vyc0RhdGEiLCJzZXRVc2VyRGF0YSIsImxvYWRNb3JlIiwic2V0TG9hZE1vcmUiLCJvZmZzZXQiLCJzZXRPZmZzZXQiLCJsaW1pdCIsInF1ZXJ5IiwiZGF0YSIsImZldGNoTW9yZSIsInZhcmlhYmxlcyIsImNvbmNhdCIsInVzZXJzIiwiaGFuZGxlTG9hZE1vcmUiLCJjb25zb2xlIiwibG9nIiwiZXJyIiwibWVzc2FnZSIsImRpdiIsImNsYXNzTmFtZSIsImNvbnRhaW5lciIsIm1haW4iLCJ1c2VyIiwiYnV0dG9uIiwibG9hZF9tb3JlX2J1dHRvbiIsIm9uQ2xpY2siXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./components/UserDetails.js\n");
+// ESM COMPAT FLAG
+__webpack_require__.r(__webpack_exports__);
+
+// EXPORTS
+__webpack_require__.d(__webpack_exports__, {
+  "default": () => (/* binding */ Users),
+  "getStaticProps": () => (/* binding */ getStaticProps)
+});
+
+// EXTERNAL MODULE: external "react/jsx-runtime"
+var jsx_runtime_ = __webpack_require__(997);
+;// CONCATENATED MODULE: external "@apollo/client"
+const client_namespaceObject = require("@apollo/client");
+;// CONCATENATED MODULE: ./lib/with-apollo.js
+
+const client = new client_namespaceObject.ApolloClient({
+    uri: "http://localhost:4000/graphql",
+    cache: new client_namespaceObject.InMemoryCache()
+});
+/* harmony default export */ const with_apollo = (client);
+
+// EXTERNAL MODULE: external "react"
+var external_react_ = __webpack_require__(689);
+// EXTERNAL MODULE: ./styles/Users.module.css
+var Users_module = __webpack_require__(353);
+var Users_module_default = /*#__PURE__*/__webpack_require__.n(Users_module);
+;// CONCATENATED MODULE: ./components/UserList.js
+
+
+
+const UserList = ({ user  })=>{
+    return /*#__PURE__*/ jsx_runtime_.jsx("div", {
+        className: (Users_module_default()).grid,
+        children: user.map((data, index)=>/*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                className: (Users_module_default()).card,
+                children: [
+                    /*#__PURE__*/ jsx_runtime_.jsx("h3", {
+                        children: data.name
+                    }),
+                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
+                        children: [
+                            "Phone: ",
+                            data.phone
+                        ]
+                    }),
+                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
+                        children: [
+                            "Address: ",
+                            data.address
+                        ]
+                    }),
+                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
+                        children: [
+                            "Email: ",
+                            data.email
+                        ]
+                    })
+                ]
+            }, index))
+    });
+};
+/* harmony default export */ const components_UserList = (UserList);
+
+;// CONCATENATED MODULE: ./components/UserDetails.js
+
+
+
+
+
+const UserDetails = ({ userslist  })=>{
+    const [usersData, setUserData] = (0,external_react_.useState)(userslist);
+    const [loadMore, setLoadMore] = (0,external_react_.useState)(false);
+    const [offset, setOffset] = (0,external_react_.useState)(0);
+    const limit = 20;
+    const query = client_namespaceObject.gql`
+    query Users ($limit: Int!, $offset: Int!) {
+        users(limit: $limit, offset: $offset) {
+          name
+          address
+          email
+          phone
+        }
+      }
+  `;
+    const { data , fetchMore  } = (0,client_namespaceObject.useQuery)(query, {
+        variables: {
+            limit: limit,
+            offset: offset
+        }
+    });
+    if (data && loadMore) {
+        setLoadMore(false);
+        setUserData(usersData.concat(data.users));
+    }
+    const handleLoadMore = ()=>{
+        console.log("handleLoadMore");
+        setLoadMore(true);
+        setOffset(offset + limit);
+        try {
+            fetchMore({
+                variables: {
+                    limit: limit,
+                    offset: offset
+                }
+            });
+        } catch (err) {
+            console.log(`Error! ${err.message}`);
+        }
+    };
+    return /*#__PURE__*/ jsx_runtime_.jsx("div", {
+        className: (Users_module_default()).container,
+        children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("main", {
+            className: (Users_module_default()).main,
+            children: [
+                /*#__PURE__*/ jsx_runtime_.jsx(components_UserList, {
+                    user: usersData
+                }),
+                /*#__PURE__*/ jsx_runtime_.jsx("button", {
+                    className: (Users_module_default()).load_more_button,
+                    onClick: handleLoadMore,
+                    children: "Load more"
+                })
+            ]
+        })
+    });
+};
+/* harmony default export */ const components_UserDetails = (UserDetails);
+
+;// CONCATENATED MODULE: ./pages/index.js
+
+
+
+
+
+function Users({ users  }) {
+    return /*#__PURE__*/ jsx_runtime_.jsx(client_namespaceObject.ApolloProvider, {
+        client: with_apollo,
+        children: /*#__PURE__*/ jsx_runtime_.jsx(components_UserDetails, {
+            userslist: users
+        })
+    });
+}
+async function getStaticProps() {
+    const { data  } = await with_apollo.query({
+        query: client_namespaceObject.gql`
+    query Users {
+      users(limit: 20, offset: 0) {
+        name
+        address
+        email
+        phone
+      }
+    }
+    `
+    });
+    return {
+        props: {
+            users: data.users
+        }
+    };
+}
+
 
 /***/ }),
 
-/***/ "./components/UserList.js":
-/*!********************************!*\
-  !*** ./components/UserList.js ***!
-  \********************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _styles_Users_module_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../styles/Users.module.css */ \"./styles/Users.module.css\");\n/* harmony import */ var _styles_Users_module_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_styles_Users_module_css__WEBPACK_IMPORTED_MODULE_2__);\n\n\n\nconst UserList = ({ user  })=>{\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n        className: (_styles_Users_module_css__WEBPACK_IMPORTED_MODULE_2___default().grid),\n        children: user.map((data, index)=>/*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n                className: (_styles_Users_module_css__WEBPACK_IMPORTED_MODULE_2___default().card),\n                children: [\n                    /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"h3\", {\n                        children: data.name\n                    }, void 0, false, {\n                        fileName: \"C:\\\\Users\\\\aruls\\\\react_learning\\\\next-apollo-demo\\\\client\\\\components\\\\UserList.js\",\n                        lineNumber: 8,\n                        columnNumber: 15\n                    }, undefined),\n                    /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"p\", {\n                        children: [\n                            \"Phone: \",\n                            data.phone\n                        ]\n                    }, void 0, true, {\n                        fileName: \"C:\\\\Users\\\\aruls\\\\react_learning\\\\next-apollo-demo\\\\client\\\\components\\\\UserList.js\",\n                        lineNumber: 9,\n                        columnNumber: 15\n                    }, undefined),\n                    /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"p\", {\n                        children: [\n                            \"Address: \",\n                            data.address\n                        ]\n                    }, void 0, true, {\n                        fileName: \"C:\\\\Users\\\\aruls\\\\react_learning\\\\next-apollo-demo\\\\client\\\\components\\\\UserList.js\",\n                        lineNumber: 12,\n                        columnNumber: 15\n                    }, undefined),\n                    /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"p\", {\n                        children: [\n                            \"Email: \",\n                            data.email\n                        ]\n                    }, void 0, true, {\n                        fileName: \"C:\\\\Users\\\\aruls\\\\react_learning\\\\next-apollo-demo\\\\client\\\\components\\\\UserList.js\",\n                        lineNumber: 15,\n                        columnNumber: 15\n                    }, undefined)\n                ]\n            }, index, true, {\n                fileName: \"C:\\\\Users\\\\aruls\\\\react_learning\\\\next-apollo-demo\\\\client\\\\components\\\\UserList.js\",\n                lineNumber: 7,\n                columnNumber: 13\n            }, undefined))\n    }, void 0, false, {\n        fileName: \"C:\\\\Users\\\\aruls\\\\react_learning\\\\next-apollo-demo\\\\client\\\\components\\\\UserList.js\",\n        lineNumber: 5,\n        columnNumber: 9\n    }, undefined);\n};\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (UserList);\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9jb21wb25lbnRzL1VzZXJMaXN0LmpzLmpzIiwibWFwcGluZ3MiOiI7Ozs7Ozs7Ozs7O0FBQTBCO0FBQ3NCO0FBQ2hELE1BQU1FLFdBQVcsQ0FBQyxFQUFDQyxLQUFJLEVBQUMsR0FBSztJQUN6QixxQkFDSSw4REFBQ0M7UUFBSUMsV0FBV0osc0VBQVc7a0JBQzFCRSxLQUFLSSxHQUFHLENBQUMsQ0FBQ0MsTUFBS0Msc0JBQ1osOERBQUNMO2dCQUFnQkMsV0FBV0osc0VBQVc7O2tDQUNyQyw4REFBQ1U7a0NBQUlILEtBQUtJLElBQUk7Ozs7OztrQ0FDZCw4REFBQ0M7OzRCQUFFOzRCQUNLTCxLQUFLTSxLQUFLOzs7Ozs7O2tDQUVsQiw4REFBQ0Q7OzRCQUFFOzRCQUNPTCxLQUFLTyxPQUFPOzs7Ozs7O2tDQUV0Qiw4REFBQ0Y7OzRCQUFFOzRCQUNLTCxLQUFLUSxLQUFLOzs7Ozs7OztlQVRWUDs7Ozs7Ozs7OztBQWV0QjtBQUNBLGlFQUFlUCxRQUFRQSxFQUFDIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vbmV4dC1hcG9sbG8vLi9jb21wb25lbnRzL1VzZXJMaXN0LmpzP2E1YWQiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JztcclxuaW1wb3J0IHN0eWxlcyBmcm9tIFwiLi4vc3R5bGVzL1VzZXJzLm1vZHVsZS5jc3NcIjtcclxuY29uc3QgVXNlckxpc3QgPSAoe3VzZXJ9KSA9PiB7XHJcbiAgICByZXR1cm4oXHJcbiAgICAgICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlcy5ncmlkfT5cclxuICAgICAgICB7dXNlci5tYXAoKGRhdGEsaW5kZXgpID0+IChcclxuICAgICAgICAgICAgPGRpdiBrZXk9e2luZGV4fSBjbGFzc05hbWU9e3N0eWxlcy5jYXJkfT5cclxuICAgICAgICAgICAgICA8aDM+e2RhdGEubmFtZX08L2gzPlxyXG4gICAgICAgICAgICAgIDxwPlxyXG4gICAgICAgICAgICAgIFBob25lOiB7ZGF0YS5waG9uZX1cclxuICAgICAgICAgICAgICA8L3A+XHJcbiAgICAgICAgICAgICAgPHA+XHJcbiAgICAgICAgICAgICAgQWRkcmVzczoge2RhdGEuYWRkcmVzc31cclxuICAgICAgICAgICAgICA8L3A+XHJcbiAgICAgICAgICAgICAgPHA+XHJcbiAgICAgICAgICAgICAgRW1haWw6IHtkYXRhLmVtYWlsfVxyXG4gICAgICAgICAgICAgIDwvcD5cclxuICAgICAgICAgICAgPC9kaXY+XHJcbiAgICAgICAgICApKX1cclxuICAgICAgICAgPC9kaXY+XHJcbiAgICApXHJcbn1cclxuZXhwb3J0IGRlZmF1bHQgVXNlckxpc3Q7Il0sIm5hbWVzIjpbIlJlYWN0Iiwic3R5bGVzIiwiVXNlckxpc3QiLCJ1c2VyIiwiZGl2IiwiY2xhc3NOYW1lIiwiZ3JpZCIsIm1hcCIsImRhdGEiLCJpbmRleCIsImNhcmQiLCJoMyIsIm5hbWUiLCJwIiwicGhvbmUiLCJhZGRyZXNzIiwiZW1haWwiXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./components/UserList.js\n");
-
-/***/ }),
-
-/***/ "./lib/with-apollo.js":
-/*!****************************!*\
-  !*** ./lib/with-apollo.js ***!
-  \****************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _apollo_client__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @apollo/client */ \"@apollo/client\");\n/* harmony import */ var _apollo_client__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_apollo_client__WEBPACK_IMPORTED_MODULE_0__);\n\nconst client = new _apollo_client__WEBPACK_IMPORTED_MODULE_0__.ApolloClient({\n    uri: \"http://localhost:4000/graphql\",\n    cache: new _apollo_client__WEBPACK_IMPORTED_MODULE_0__.InMemoryCache()\n});\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (client);\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9saWIvd2l0aC1hcG9sbG8uanMuanMiLCJtYXBwaW5ncyI6Ijs7Ozs7O0FBQTZEO0FBRTdELE1BQU1FLFNBQVMsSUFBSUYsd0RBQVlBLENBQUM7SUFDNUJHLEtBQUs7SUFDTEMsT0FBTyxJQUFJSCx5REFBYUE7QUFDNUI7QUFFQSxpRUFBZUMsTUFBTUEsRUFBQyIsInNvdXJjZXMiOlsid2VicGFjazovL25leHQtYXBvbGxvLy4vbGliL3dpdGgtYXBvbGxvLmpzP2IxNjMiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgQXBvbGxvQ2xpZW50LCBJbk1lbW9yeUNhY2hlIH0gZnJvbSBcIkBhcG9sbG8vY2xpZW50XCI7XHJcblxyXG5jb25zdCBjbGllbnQgPSBuZXcgQXBvbGxvQ2xpZW50KHtcclxuICAgIHVyaTogXCJodHRwOi8vbG9jYWxob3N0OjQwMDAvZ3JhcGhxbFwiLFxyXG4gICAgY2FjaGU6IG5ldyBJbk1lbW9yeUNhY2hlKCksXHJcbn0pO1xyXG5cclxuZXhwb3J0IGRlZmF1bHQgY2xpZW50OyJdLCJuYW1lcyI6WyJBcG9sbG9DbGllbnQiLCJJbk1lbW9yeUNhY2hlIiwiY2xpZW50IiwidXJpIiwiY2FjaGUiXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./lib/with-apollo.js\n");
-
-/***/ }),
-
-/***/ "./pages/index.js":
-/*!************************!*\
-  !*** ./pages/index.js ***!
-  \************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ Users),\n/* harmony export */   \"getStaticProps\": () => (/* binding */ getStaticProps)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _apollo_client__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @apollo/client */ \"@apollo/client\");\n/* harmony import */ var _apollo_client__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_apollo_client__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _lib_with_apollo__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../lib/with-apollo */ \"./lib/with-apollo.js\");\n/* harmony import */ var _components_UserDetails__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/UserDetails */ \"./components/UserDetails.js\");\n\n\n\n\n\nfunction Users({ users  }) {\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_apollo_client__WEBPACK_IMPORTED_MODULE_1__.ApolloProvider, {\n        client: _lib_with_apollo__WEBPACK_IMPORTED_MODULE_2__[\"default\"],\n        children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_UserDetails__WEBPACK_IMPORTED_MODULE_3__[\"default\"], {\n            userslist: users\n        }, void 0, false, {\n            fileName: \"C:\\\\Users\\\\aruls\\\\react_learning\\\\next-apollo-demo\\\\client\\\\pages\\\\index.js\",\n            lineNumber: 9,\n            columnNumber: 9\n        }, this)\n    }, void 0, false, {\n        fileName: \"C:\\\\Users\\\\aruls\\\\react_learning\\\\next-apollo-demo\\\\client\\\\pages\\\\index.js\",\n        lineNumber: 8,\n        columnNumber: 5\n    }, this);\n}\nasync function getStaticProps() {\n    const { data  } = await _lib_with_apollo__WEBPACK_IMPORTED_MODULE_2__[\"default\"].query({\n        query: _apollo_client__WEBPACK_IMPORTED_MODULE_1__.gql`\r\n    query Users {\r\n      users(limit: 20, offset: 0) {\r\n        name\r\n        address\r\n        email\r\n        phone\r\n      }\r\n    }\r\n    `\n    });\n    return {\n        props: {\n            users: data.users\n        }\n    };\n}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9wYWdlcy9pbmRleC5qcy5qcyIsIm1hcHBpbmdzIjoiOzs7Ozs7Ozs7Ozs7QUFBcUM7QUFDRztBQUNRO0FBQ0k7QUFFckMsU0FBU0ksTUFBTSxFQUFFQyxNQUFLLEVBQUUsRUFBRTtJQUN2QyxxQkFDRSw4REFBQ0gsMERBQWNBO1FBQUNELFFBQVFBLHdEQUFNQTtrQkFDMUIsNEVBQUNFLCtEQUFXQTtZQUFDRyxXQUFXRDs7Ozs7Ozs7Ozs7QUFHaEMsQ0FBQztBQUdNLGVBQWVFLGlCQUFpQjtJQUNyQyxNQUFNLEVBQUVDLEtBQUksRUFBRSxHQUFHLE1BQU1QLDhEQUFZLENBQUM7UUFDbENRLE9BQU9ULCtDQUFHLENBQUM7Ozs7Ozs7OztJQVNYLENBQUM7SUFDSDtJQUVBLE9BQU87UUFDTFUsT0FBTztZQUNMTCxPQUFPRyxLQUFLSCxLQUFLO1FBQ25CO0lBQ0Y7QUFDRixDQUFDIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vbmV4dC1hcG9sbG8vLi9wYWdlcy9pbmRleC5qcz9iZWU3Il0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCB7IGdxbCB9IGZyb20gXCJAYXBvbGxvL2NsaWVudFwiO1xyXG5pbXBvcnQgY2xpZW50IGZyb20gXCIuLi9saWIvd2l0aC1hcG9sbG9cIjtcclxuaW1wb3J0IHsgQXBvbGxvUHJvdmlkZXIgfSBmcm9tIFwiQGFwb2xsby9jbGllbnRcIjtcclxuaW1wb3J0IFVzZXJEZXRhaWxzIGZyb20gJy4uL2NvbXBvbmVudHMvVXNlckRldGFpbHMnO1xyXG5cclxuZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gVXNlcnMoeyB1c2VycyB9KSB7XHJcbiAgcmV0dXJuIChcclxuICAgIDxBcG9sbG9Qcm92aWRlciBjbGllbnQ9e2NsaWVudH0+XHJcbiAgICAgICAgPFVzZXJEZXRhaWxzIHVzZXJzbGlzdD17dXNlcnN9Lz5cclxuICAgIDwvQXBvbGxvUHJvdmlkZXI+ICBcclxuICApO1xyXG59XHJcblxyXG5cclxuZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIGdldFN0YXRpY1Byb3BzKCkge1xyXG4gIGNvbnN0IHsgZGF0YSB9ID0gYXdhaXQgY2xpZW50LnF1ZXJ5KHtcclxuICAgIHF1ZXJ5OiBncWxgXHJcbiAgICBxdWVyeSBVc2VycyB7XHJcbiAgICAgIHVzZXJzKGxpbWl0OiAyMCwgb2Zmc2V0OiAwKSB7XHJcbiAgICAgICAgbmFtZVxyXG4gICAgICAgIGFkZHJlc3NcclxuICAgICAgICBlbWFpbFxyXG4gICAgICAgIHBob25lXHJcbiAgICAgIH1cclxuICAgIH1cclxuICAgIGAsXHJcbiAgfSk7XHJcblxyXG4gIHJldHVybiB7XHJcbiAgICBwcm9wczoge1xyXG4gICAgICB1c2VyczogZGF0YS51c2VycyxcclxuICAgIH0sXHJcbiAgfTtcclxufVxyXG4iXSwibmFtZXMiOlsiZ3FsIiwiY2xpZW50IiwiQXBvbGxvUHJvdmlkZXIiLCJVc2VyRGV0YWlscyIsIlVzZXJzIiwidXNlcnMiLCJ1c2Vyc2xpc3QiLCJnZXRTdGF0aWNQcm9wcyIsImRhdGEiLCJxdWVyeSIsInByb3BzIl0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./pages/index.js\n");
-
-/***/ }),
-
-/***/ "@apollo/client":
-/*!*********************************!*\
-  !*** external "@apollo/client" ***!
-  \*********************************/
-/***/ ((module) => {
-
-"use strict";
-module.exports = require("@apollo/client");
-
-/***/ }),
-
-/***/ "react":
-/*!************************!*\
-  !*** external "react" ***!
-  \************************/
+/***/ 689:
 /***/ ((module) => {
 
 "use strict";
@@ -88,14 +201,11 @@ module.exports = require("react");
 
 /***/ }),
 
-/***/ "react/jsx-dev-runtime":
-/*!****************************************!*\
-  !*** external "react/jsx-dev-runtime" ***!
-  \****************************************/
+/***/ 997:
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("react/jsx-dev-runtime");
+module.exports = require("react/jsx-runtime");
 
 /***/ })
 
@@ -106,7 +216,7 @@ module.exports = require("react/jsx-dev-runtime");
 var __webpack_require__ = require("../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = (__webpack_exec__("./pages/index.js"));
+var __webpack_exports__ = (__webpack_exec__(465));
 module.exports = __webpack_exports__;
 
 })();
