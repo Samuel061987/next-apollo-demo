@@ -1,7 +1,6 @@
 import React from 'react';
 import styles from "../styles/Users.module.css";
 const UserList = ({user}) => {
-  console.log('user',user);
     return(
         <div className={styles.grid}>
         {user && user.map((data,index) => (

@@ -49,7 +49,7 @@ const UserDetails = ({userslist}) => {
    
         <UserList user={usersData}></UserList>
          <button className={styles.load_more_button} onClick={handleLoadMore}>
-          Load more
+         Load more
         </button>
       
       </main>
